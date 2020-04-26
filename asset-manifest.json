@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/sailormoon/static/css/main.2f54170c.chunk.css",
+    "main.js": "/sailormoon/static/js/main.634b4593.chunk.js",
+    "main.js.map": "/sailormoon/static/js/main.634b4593.chunk.js.map",
+    "runtime-main.js": "/sailormoon/static/js/runtime-main.f925a388.js",
+    "runtime-main.js.map": "/sailormoon/static/js/runtime-main.f925a388.js.map",
+    "static/js/2.964ea94d.chunk.js": "/sailormoon/static/js/2.964ea94d.chunk.js",
+    "static/js/2.964ea94d.chunk.js.map": "/sailormoon/static/js/2.964ea94d.chunk.js.map",
+    "index.html": "/sailormoon/index.html",
+    "precache-manifest.e332602de748ef87b53e8a159c643a0a.js": "/sailormoon/precache-manifest.e332602de748ef87b53e8a159c643a0a.js",
+    "service-worker.js": "/sailormoon/service-worker.js",
+    "static/css/main.2f54170c.chunk.css.map": "/sailormoon/static/css/main.2f54170c.chunk.css.map",
+    "static/js/2.964ea94d.chunk.js.LICENSE.txt": "/sailormoon/static/js/2.964ea94d.chunk.js.LICENSE.txt",
+    "static/media/01-Unfinished-Diagram.png": "/sailormoon/static/media/01-Unfinished-Diagram.7f1d4d1d.png",
+    "static/media/02-Finished-Diagram.png": "/sailormoon/static/media/02-Finished-Diagram.5ff5f2a6.png",
+    "static/media/index.css": "/sailormoon/static/media/background.e4310309.jpg",
+    "static/media/style.css": "/sailormoon/static/media/backgroundDiv.aad8e3bf.jpg",
+    "static/media/sailorJupiter.png": "/sailormoon/static/media/sailorJupiter.a741657c.png",
+    "static/media/sailorMars.png": "/sailormoon/static/media/sailorMars.d8c9da3b.png",
+    "static/media/sailorMercury.png": "/sailormoon/static/media/sailorMercury.190834ab.png",
+    "static/media/sailorMoon.png": "/sailormoon/static/media/sailorMoon.e729864a.png",
+    "static/media/sailorMoonTitle.png": "/sailormoon/static/media/sailorMoonTitle.b97c0585.png",
+    "static/media/sailorNeptune.png": "/sailormoon/static/media/sailorNeptune.7da4c19d.png",
+    "static/media/sailorPluto.png": "/sailormoon/static/media/sailorPluto.738497b6.png",
+    "static/media/sailorSaturn.png": "/sailormoon/static/media/sailorSaturn.152f31c2.png",
+    "static/media/sailorUranus.png": "/sailormoon/static/media/sailorUranus.970fe852.png",
+    "static/media/sailorVenus.png": "/sailormoon/static/media/sailorVenus.f36d03bb.png",
+    "static/media/tuxedoMask.png": "/sailormoon/static/media/tuxedoMask.d1424e54.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f925a388.js",
+    "static/js/2.964ea94d.chunk.js",
+    "static/css/main.2f54170c.chunk.css",
+    "static/js/main.634b4593.chunk.js"
+  ]
+}
