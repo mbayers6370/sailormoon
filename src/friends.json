@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Sailor Moon",
+    "image": "sailorMoon.png"
+  },
+  {
+    "id": 2,
+    "name": "Sailor Mercury",
+    "image": "sailorMercury.png"
+  },
+  {
+    "id": 3,
+    "name": "Sailor Mars",
+    "image": "sailorMars.png"
+  },
+  {
+    "id": 4,
+    "name": "Sailor Jupiter",
+    "image": "sailorJupiter.png"
+  },
+  {
+    "id": 5,
+    "name": "Sailor Venus",
+    "image": "sailorVenus.png"
+  },
+  {
+    "id": 6,
+    "name": "Sailor Uranus",
+    "image": "sailorUranus.png"
+  },
+  {
+    "id": 7,
+    "name": "Sailor Neptune",
+    "image": "sailorNeptune.png"
+  },
+  {
+    "id": 8,
+    "name": "Sailor Pluto",
+    "image": "sailorPluto.png"
+  },
+  {
+    "id": 9,
+    "name": "Sailor Saturn",
+    "image": "sailorSaturn.png"
+  },
+  {
+    "id": 10,
+    "name": "Tuxedo Mask",
+    "image": "tuxedoMask.png"
+  }
+]

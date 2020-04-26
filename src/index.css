@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  font-family: "Bellota", cursive;
+}
+
+html,
+body,
+#root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  background-image: url(../src/Images/background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.message {
+  font-size: 25px;
+  color: rgb(52, 9, 121);
+  width: 100%;
+  text-align: center;
+}
+
+.score {
+  font-size: 25px;
+  color: rgb(52, 9, 121);
+  width: 100%;
+  text-align: center;
+}

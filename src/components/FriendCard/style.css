@@ -1,0 +1,52 @@
+.card {
+  height: 180px;
+  position: relative;
+  width: 180px;
+  text-align: left;
+  margin: 14px;
+  float: left;
+  background-color: rgba(0, 0, 255, 0) !important;
+}
+
+.card > .img-container {
+  overflow: hidden;
+  text-align: center;
+  background: rgba(156, 47, 111, 0.8);
+  height: 100%;
+  border: 1px black solid;
+}
+
+.cardImage {
+  height: 100%;
+}
+
+.wrapper {
+  background: none !important;
+}
+
+.card > .img-container:hover {
+  -webkit-animation: flip-vertical-right 1s
+    cubic-bezier(0.455, 0.03, 0.515, 0.955) both;
+  animation: flip-vertical-right 1s cubic-bezier(0.455, 0.03, 0.515, 0.955) both;
+}
+
+@-webkit-keyframes flip-vertical-right {
+  0% {
+    -webkit-transform: rotateY(0);
+    transform: rotateY(0);
+  }
+  100% {
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+  }
+}
+@keyframes flip-vertical-right {
+  0% {
+    -webkit-transform: rotateY(0);
+    transform: rotateY(0);
+  }
+  100% {
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+  }
+}
